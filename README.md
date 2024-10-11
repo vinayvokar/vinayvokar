@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Vinay Kumar Rai! 👋
 
 # 💫 About Me:
 🌱 I’m currently learning AI and ML<br><br>💬 Ask me about ReactJS, Python<br><br>👨‍💻 Visit my portfolio at https://iamvokar.com/<br><br>📄 Know about my experiences - My Resume.<br><br>⚡ Fun fact ** I love travelling and gaming.**
